@@ -51,7 +51,8 @@ I’m an **IT undergraduate (2024–2028)** at **Government College of Engineeri
 ## 🌟 Featured Projects
 
 ### 🚀 Artifinity AI – SaaS AI Platform  
-🔗 [Live](#) | [Code](https://github.com/khilesh321/artifinity-ai)
+🔗 **Live:** https://artifinity-ai.vercel.app/  
+💻 **Code:** https://github.com/khilesh321/Artifinity.ai---AI-based-Web-App  
 
 - AI-powered SaaS platform using **MERN + Clerk**
 - Features: AI writing, image generation, resume review & community showcase
@@ -60,7 +61,8 @@ I’m an **IT undergraduate (2024–2028)** at **Government College of Engineeri
 ---
 
 ### 🤖 ThinkDB – AI Database Assistant  
-🔗 [Live](#) | [Code](#)
+🔗 **Live:** https://thinkdb.vercel.app/  
+💻 **Code:** https://github.com/khilesh321/thinkdb  
 
 - Conversational AI for **SQL generation & database querying**
 - Powered by **Groq AI**
@@ -69,7 +71,8 @@ I’m an **IT undergraduate (2024–2028)** at **Government College of Engineeri
 ---
 
 ### 📚 LibraLink – AI Powered Library System  
-🔗 [Live](#) | [Code](#)
+🔗 **Live:** https://libra-link.vercel.app/  
+💻 **Code:** https://github.com/khilesh321/libraLink-V2  
 
 - Smart library management with recommendations & chatbot
 - Secure auth, database & file storage via **Supabase**
@@ -80,9 +83,9 @@ I’m an **IT undergraduate (2024–2028)** at **Government College of Engineeri
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: **https://khilesh.is-a.dev**
-- 💼 LinkedIn: [Khilesh Jawale](https://www.linkedin.com/in/khilesh-jawale)
+- 💼 LinkedIn: https://www.linkedin.com/in/khilesh-jawale
 - 📧 Email: **khilujawale321@gmail.com**
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*  
+⭐ *If you like my work, consider starring the repositories!*
