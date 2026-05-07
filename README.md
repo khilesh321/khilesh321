@@ -123,15 +123,6 @@ Passionate about combining **Full-Stack Development + Generative AI** to create 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khilesh321&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khilesh321&theme=tokyonight" height="170"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 🌐 Portfolio: https://khilesh.in
